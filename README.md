@@ -6,11 +6,8 @@
 * Jam **(Optional)**
 #### YOU WILL NEED
 * Toaster
-<<<<<<< HEAD
 **Recommended:** [Mainstays 2-Slice Toaster](https://www.walmart.com/ip/Mainstays-2-Slice-Toaster-Black-with-6-Shade-Settings-and-Removable-Crumb-Tray-New/1233603801?wl13=2550&selectedSellerId=0&wmlspartner=wlpa&utm_source=chatgpt.com)  
-=======
 **Recommended:** [Mainstays 2-Slice Toaster](https://www.walmart.com/ip/Mainstays-2-Slice-Toaster-Black-with-6-Shade-Settings-and-Removable-Crumb-Tray-New/1233603801?wl13=2550&selectedSellerId=0&wmlspartner=wlpa&utm_source=chatgpt.com)
->>>>>>> e5283f430eff4ae76ab86b787de1b7177d4ec223
 
 ---
 
@@ -30,7 +27,6 @@
 ---
 
 5. Place the toast on a plate. Add toppings **(optional)**
-<<<<<<< HEAD
 6. Enjoy toast. 
 ---
 > "If thou tastest a crust of bread, thou tastest all the stars and all the heavens"
