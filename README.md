@@ -30,10 +30,5 @@
 6. Enjoy toast. 
 ---
 > "If thou tastest a crust of bread, thou tastest all the stars and all the heavens"
->> -_Robert Browning_ 
-=======
-6. Enjoy toast.
----
-> "If thou tastest a crust of bread, thou tastest all the stars and all the heavens"
 >> -_Robert Browning_
 ---
